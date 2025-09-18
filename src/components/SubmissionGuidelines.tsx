@@ -169,7 +169,7 @@ const SubmissionGuidelines = () => {
                 <Button 
                   size="lg" 
                   className="bg-workshop-gradient-accent hover:shadow-workshop-glow transition-all duration-300 transform hover:scale-105"
-                  onClick={() => window.open('https://easychair.org/conferences/?conf=regionalfake2025', '_blank')}
+                  onClick={() => window.open('https://openreview.net/group?id=SPELLL.org/2025/Workshop/Regional-FAKE', '_blank')}
                 >
                   Submit via EasyChair
                 </Button>
