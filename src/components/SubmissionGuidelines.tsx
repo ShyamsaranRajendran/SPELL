@@ -177,7 +177,7 @@ const SubmissionGuidelines = () => {
                   size="lg" 
                   variant="outline" 
                   className="border-workshop-primary text-workshop-primary hover:bg-workshop-primary/10"
-                  onClick={() => window.open('https://sites.google.com/view/mmlow2025/home', '_blank')}
+                  onClick={() => window.open('https://openreview.net/group?id=SPELLL.org/2025/Workshop/Regional-FAKE', '_blank')}
                 >
                   View Submission Portal
                 </Button>
